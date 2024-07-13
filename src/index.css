@@ -1,0 +1,24 @@
+.card{
+  border: 1px solid blacl;
+  border-radius: 2px;
+  box-shadow: 5px 5px 5px;
+  padding: 20px;
+  margin: 10px;
+  max-width: 250px;
+  text-align: center;
+  display: inline-block;
+}
+.card .card-image{
+  height: 145px;
+  width: 175px;
+  max-width: 60%;
+  border-radius: 50%;
+
+}
+.card .card-title{
+  color: darkorchid;
+  margin: 0;
+}
+.card .card-para{
+
+}
